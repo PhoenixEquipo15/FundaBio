@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 2,
+    "uniqCompNum": 7,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -42,7 +42,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Página Principal",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2548,7 +2548,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "CASO CLINICO",
-        "order": 30
+        "order": 29
       },
       "components": [
         {
@@ -3114,7 +3114,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "IDENTIFICACION DEL PROBLEMA",
-        "order": 31
+        "order": 30
       },
       "components": [
         {
@@ -3547,7 +3547,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "SEMANA 12",
-        "order": 29
+        "order": 28
       },
       "components": [
         {
@@ -3980,7 +3980,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "SEMANA 11",
-        "order": 28
+        "order": 27
       },
       "components": [
         {
@@ -4413,7 +4413,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "SEMANA 10",
-        "order": 27
+        "order": 26
       },
       "components": [
         {
@@ -4846,7 +4846,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "SEMANA 9",
-        "order": 26
+        "order": 25
       },
       "components": [
         {
@@ -5279,7 +5279,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "SEMANA 8",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
@@ -5712,7 +5712,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "SEMANA 7",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -6145,7 +6145,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "SEMANA 6",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -6578,7 +6578,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "SEMANA 5",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -7011,7 +7011,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "SEMANA 4",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -7444,7 +7444,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "SEMANA 3",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -7877,7 +7877,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "SEMANA 2",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -8310,7 +8310,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "BIBLIOGRAFIA",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -9007,7 +9007,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "AGENDA",
-        "order": 32
+        "order": 31
       },
       "components": [
         {
@@ -14679,7 +14679,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "PAGINA DE INICIO BIBLIO",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
