@@ -304,7 +304,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/features18/../_images/background5.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -321,7 +321,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/quemaduras-4-1800x1199.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
