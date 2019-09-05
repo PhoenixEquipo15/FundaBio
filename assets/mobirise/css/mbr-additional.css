@@ -10402,14 +10402,89 @@ body {
     width: 100% !important;
   }
 }
-.cid-rBe41ysyKH {
+.cid-rBefl6GxhF {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rBe41ysyKH .mbr-text,
-.cid-rBe41ysyKH blockquote {
+.cid-rBefl6GxhF h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rBefl6GxhF .progress {
+  width: 100%;
+}
+.cid-rBefl6GxhF .title-wrap {
+  display: flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+}
+.cid-rBefl6GxhF progress {
+  height: 8px;
+}
+.cid-rBefl6GxhF .progressbar-number {
+  display: inline-block;
+}
+.cid-rBefl6GxhF .progress-primary {
+  background: rgba(206, 206, 206, 0.4);
+  border: none;
+  outline: none;
+}
+.cid-rBefl6GxhF .progress-primary::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-rBefl6GxhF .mbr-section-subtitle {
   color: #767676;
+}
+.cid-rBefl6GxhF .section-content-title {
+  font-weight: 500;
+}
+.cid-rBefl6GxhF .progress_value {
+  position: relative;
+}
+.cid-rBefl6GxhF .progress1 .progressbar-number:before,
+.cid-rBefl6GxhF .progress2 .progressbar-number:before,
+.cid-rBefl6GxhF .progress3 .progressbar-number:before,
+.cid-rBefl6GxhF .progress4 .progressbar-number:before,
+.cid-rBefl6GxhF .progress5 .progressbar-number:before {
+  position: absolute;
+  right: 15px;
+  top: 0;
+}
+.cid-rBefl6GxhF progress[value]::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-rBefl6GxhF progress::-webkit-progress-value {
+  background: #149dcc;
+}
+.cid-rBefl6GxhF progress[value]::-moz-progress-bar {
+  background: #149dcc;
+}
+.cid-rBefl6GxhF progress::-ms-fill {
+  background: #149dcc;
+}
+.cid-rBefl6GxhF .progress1 .progressbar-number:before {
+  content: '70';
+}
+.cid-rBefl6GxhF .progress2 .progressbar-number:before {
+  content: '60';
+}
+.cid-rBefl6GxhF .progress3 .progressbar-number:before {
+  content: '80';
+}
+.cid-rBefl6GxhF .progress4 .progressbar-number:before {
+  content: '70';
+}
+.cid-rBefl6GxhF .progress5 .progressbar-number:before {
+  content: '60';
+}
+@media (min-width: 768px) {
+  .cid-rBefl6GxhF .text-elements {
+    padding-right: 3rem;
+  }
+  .cid-rBefl6GxhF .progress_elements {
+    padding-left: 3rem;
+  }
 }
 .cid-rBabHVUSRJ {
   padding-top: 30px;
