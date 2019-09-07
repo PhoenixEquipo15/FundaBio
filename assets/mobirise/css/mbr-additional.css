@@ -1796,6 +1796,9 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-rAeyqIyLpk .card-title {
+  text-align: center;
+}
 .cid-rAcOuJU0hv .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -4485,6 +4488,29 @@ body {
 .cid-rB8j9Exwnm foot-menu-item {
   text-align: right;
 }
+.cid-rBpdTuQ0ma {
+  padding-top: 120px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-rBpdTuQ0ma .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rBpdTuQ0ma .section-text {
+  padding: 2rem 0;
+}
+.cid-rBpdTuQ0ma .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rBpdTuQ0ma .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rAcQHMrWaW .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -4891,6 +4917,62 @@ body {
 .cid-rAcQHMrWaW .nav-link:hover,
 .cid-rAcQHMrWaW .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rBpeHj02Cj {
+  background: #149dcc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #149dcc);
+}
+.cid-rBpeHj02Cj .image-block {
+  margin: auto;
+}
+.cid-rBpeHj02Cj figcaption {
+  position: relative;
+}
+.cid-rBpeHj02Cj figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rBpeHj02Cj .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rBpeHj02Cj DIV {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-rBpfnbaktY {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-rBpfnbaktY .image-block {
+  margin: auto;
+}
+.cid-rBpfnbaktY figcaption {
+  position: relative;
+}
+.cid-rBpfnbaktY figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rBpfnbaktY .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rBpfnbaktY DIV {
+  text-align: left;
+}
+.cid-rBpfInsK0H {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-rB8j9Exwnm {
   padding-top: 15px;
