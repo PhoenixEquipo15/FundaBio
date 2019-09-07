@@ -10609,6 +10609,44 @@ body {
   color: #232323;
   text-align: center;
 }
+.cid-rBprTjVImv {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #149dcc;
+}
+.cid-rBprTjVImv .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rBprTjVImv .section-text {
+  padding: 2rem 0;
+}
+.cid-rBprTjVImv .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rBprTjVImv .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rBprTKEmJn {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-rBprTKEmJn .mbr-text,
+.cid-rBprTKEmJn blockquote {
+  color: #767676;
+}
+.cid-rBprTKEmJn .mbr-text P {
+  text-align: center;
+}
+.cid-rBprTKEmJn .mbr-text {
+  color: #232323;
+}
 .cid-rBm5VUIjK7 {
   padding-top: 30px;
   padding-bottom: 30px;
