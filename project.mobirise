@@ -35,7 +35,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 225,
+    "uniqCompNum": 229,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -10746,6 +10746,84 @@
               }
             }
           },
+          "_name": "content10",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ff3366\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text>DETECCIÓN DE TEJIDO LESIONADO POR QUEMADURAS PARA CIRUGÍA DE DESBRIDAMIENTO MEDIANTE LA COMBINACIÓN DE TÉCNICAS DE IMÁGEN ÓPTICA NO INVASIVAS</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_cid": "rC3qF04nuw",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content10-69"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Interacción luz-tejido:  las propiedades ópticas que definen la interacción entre fotones y tejidos a medida que la luz viaja a través de los tejidos son principios clave para la traducción de estas técnicas al uso clínico. Las propiedades que definen el transporte de luz relevante para la evaluación de quemaduras se miden en longitudes del orden de mm-cm. Estos incluyen el índice de refracción ( n ), que define la velocidad de la luz en el medio, así como el coeficiente de dispersión reducido (μ s / ) y el coeficiente de absorción (μ a), que definen la distancia que la luz tiende a viajar entre los eventos de dispersión o absorción. Las propiedades ópticas del tejido de la piel están definidas por su composición química y estructura anatómica. Todas estas moléculas, excepto el colágeno, son los principales contribuyentes a la absorción de tejidos. Los procesos de enfermedades, incluidas las quemaduras, que alteran la configuración o la concentración de estas moléculas en la piel son, por lo tanto, discernibles por técnicas ópticas.\n</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rC3rpCBP1l",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-6b"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>MSI: MSI captura múltiples mediciones independientes del tejido en rápida sucesión y es flexible para diagnosticar no solo la gravedad de la quemadura, sino también para identificar muchos otros tejidos, incluido el lecho viable de la herid. Otras ventajas incluyen lo siguiente: un campo de visión amplio y escalable, tiempo de recopilación de datos rápido, determinación altamente precisa de la fisiología de las quemaduras y adaptabilidad a múltiples diagnósticos en todo el espectro del cuidado de las quemaduras [8].\n</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rC3rqLtbDj",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-6c"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"76\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ff3366\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".section-text\" mbr-text>TABLA DE REQUERIMIENTOS</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "rBM3gYEaq3",
@@ -20163,7 +20241,7 @@
             }
           },
           "_name": "content11",
-          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#ff3366\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li>Matthieu, B., Jerome, R., Stephane, B. y Gabriel, L. (2013). Determinación de la profundidad de quemado en tejidos biológicos mediante medición dieléctrica a frecuencias de microondas. SENSORES IEEE 2013 , 1-3. Página web:\n <a href=\"https://www.semanticscholar.org/paper/Determination-of-burn-depth-on-biological-tissues-Matthieu-Jerome/e71d2c275465ee236f09282c8c02dc62f0075366\" target=\"_blank\" class=\"text-danger\">https://www.semanticscholar.org/paper/Determination-of-burn-depth-on-biological-tissues-Matthieu-Jerome/e71d2c275465ee236f09282c8c02dc62f0075366</a></li><li>Brian McCall - Spectral MD Improving diagnostic accuracy to revolutionize wound care Medical &amp; life sciences imaging multispectral 2019 <a href=\"https://www.oceaninsight.com/solutions/case-studies/intelligent-wound-care/\" target=\"_blank\" class=\"text-danger\">https://www.oceaninsight.com/solutions/case-studies/intelligent-wound-care/</a></li><li>Still JM, Law EJ, Klavuhn KG, Island TC, Holtz JZ. Diagnosis of burn depth using laser-induced\n indocyanine green fluorescence: a preliminary clinical trial. Burns. el 1 de junio de 2001;27(4):364–71. Página web: <a href=\"https://www.ncbi.nlm.nih.gov/m/pubmed/11348745/\" target=\"_blank\" class=\"text-danger\">https://www.ncbi.nlm.nih.gov/m/pubmed/11348745/</a>&nbsp;</li><li>Heredia-Juesas J, Thatcher JE, Lu Y, Squiers JJ, King D, Fan W, et al. Non-invasive optical imaging\n techniques for burn-injured tissue detection for debridement surgery. En: 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2016. p. 2893–6. Página web: <a href=\"https://www.ncbi.nlm.nih.gov/m/pubmed/29675321/\" target=\"_blank\" class=\"text-danger\">https://www.ncbi.nlm.nih.gov/m/pubmed/29675321/</a></li><li>Leutenegger, M., Martin-Williams, E., Harbi, P., Thacher, T., Raffoul, W., André, M., ... Lasser, T. (2011). Imágenes de Doppler láser de campo completo en tiempo real. Biomedical optics express <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114216/\" target=\"_blank\" class=\"text-danger\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114216/</a></li>\n                    <li><span style=\"font-size: 1rem;\">van der Meer, F., Faber, D., Aalders, M., Poot, A., Vermes, I. y van Leeuwen, T. (2008). Cambios inducidos por apoptosis y necrosis en la atenuación de la luz medidos por tomografía de coherencia óptica. 2019, de Lasers in Medical Science Sitio web: <a href=\"https://link.springer.com/article/10.1007/s10103-009-0723-y\" target=\"_blank\" class=\"text-danger\">https://link.springer.com/article/10.1007/s10103-009-0723-y</a>\n</span></li><li><span style=\"font-size: 1rem;\">&nbsp;Martinez, M., Ramirez, J., Kolosovas, E., Justin, J. (2018).  Desarrollo y validación de un algoritmo para predecir la modalidad de tratamiento de las heridas por quemaduras mediante escáneres termográficos: estudio de cohorte prospectivo. Sitio web: <a href=\"https://journals.plos.org/plosone/articleid=10.1371/journal.pone.0206477 \" target=\"_blank\" class=\"text-danger\">https://journals.plos.org/plosone/articleid=10.1371/journal.pone.0206477&nbsp;</a></span></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#ff3366\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li>Matthieu, B., Jerome, R., Stephane, B. y Gabriel, L. (2013). Determinación de la profundidad de quemado en tejidos biológicos mediante medición dieléctrica a frecuencias de microondas. SENSORES IEEE 2013 , 1-3. Página web:\n <a href=\"https://www.semanticscholar.org/paper/Determination-of-burn-depth-on-biological-tissues-Matthieu-Jerome/e71d2c275465ee236f09282c8c02dc62f0075366\" target=\"_blank\" class=\"text-danger\">https://www.semanticscholar.org/paper/Determination-of-burn-depth-on-biological-tissues-Matthieu-Jerome/e71d2c275465ee236f09282c8c02dc62f0075366</a></li><li>Brian McCall - Spectral MD Improving diagnostic accuracy to revolutionize wound care Medical &amp; life sciences imaging multispectral 2019 <a href=\"https://www.oceaninsight.com/solutions/case-studies/intelligent-wound-care/\" target=\"_blank\" class=\"text-danger\">https://www.oceaninsight.com/solutions/case-studies/intelligent-wound-care/</a></li><li>Still JM, Law EJ, Klavuhn KG, Island TC, Holtz JZ. Diagnosis of burn depth using laser-induced\n indocyanine green fluorescence: a preliminary clinical trial. Burns. el 1 de junio de 2001;27(4):364–71. Página web: <a href=\"https://www.ncbi.nlm.nih.gov/m/pubmed/11348745/\" target=\"_blank\" class=\"text-danger\">https://www.ncbi.nlm.nih.gov/m/pubmed/11348745/</a>&nbsp;</li><li>Heredia-Juesas J, Thatcher JE, Lu Y, Squiers JJ, King D, Fan W, et al. Non-invasive optical imaging\n techniques for burn-injured tissue detection for debridement surgery. En: 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2016. p. 2893–6. Página web: <a href=\"https://www.ncbi.nlm.nih.gov/m/pubmed/29675321/\" target=\"_blank\" class=\"text-danger\">https://www.ncbi.nlm.nih.gov/m/pubmed/29675321/</a></li><li>Leutenegger, M., Martin-Williams, E., Harbi, P., Thacher, T., Raffoul, W., André, M., ... Lasser, T. (2011). Imágenes de Doppler láser de campo completo en tiempo real. Biomedical optics express <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114216/\" target=\"_blank\" class=\"text-danger\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114216/</a></li>\n                    <li><span style=\"font-size: 1rem;\">van der Meer, F., Faber, D., Aalders, M., Poot, A., Vermes, I. y van Leeuwen, T. (2008). Cambios inducidos por apoptosis y necrosis en la atenuación de la luz medidos por tomografía de coherencia óptica. 2019, de Lasers in Medical Science Sitio web: <a href=\"https://link.springer.com/article/10.1007/s10103-009-0723-y\" target=\"_blank\" class=\"text-danger\">https://link.springer.com/article/10.1007/s10103-009-0723-y</a>\n</span></li><li><span style=\"font-size: 1rem;\">&nbsp;Martinez, M., Ramirez, J., Kolosovas, E., Justin, J. (2018).  Desarrollo y validación de un algoritmo para predecir la modalidad de tratamiento de las heridas por quemaduras mediante escáneres termográficos: estudio de cohorte prospectivo. Sitio web: <a href=\"https://journals.plos.org/plosone/articleid=10.1371/journal.pone.0206477 \" target=\"_blank\" class=\"text-danger\">https://journals.plos.org/plosone/articleid=10.1371/journal.pone.0206477&nbsp;</a></span></li><li><span style=\"font-size: 1rem;\">Heredia J, Thatcher J. (2018) Burn-injured tissue detection for debridement surgery through the combination of non-invasive optical imaging techniques. NCBI. <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5905925/\" target=\"_blank\" class=\"text-danger\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5905925/</a></span></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rBMVRmpZh5",
           "_anchor": "content11-4y",
           "_protectedParams": [],
