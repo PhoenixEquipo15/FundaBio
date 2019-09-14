@@ -9789,7 +9789,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Este estudio consiste en desarrollar una técnica no destructiva para determinar la profundidad de quemado del tejido en medio líquido.\n En todo rango de frecuencia, las señales correspondientes a diferentes profundidades de quemado estás separadas. Sin embargo, esto es en las frecuencias más altas donde las señales son las más separadas. A partir de 1.5 GHz, para una quemadura de 5 mm de profundidad, la variación supera el 5% en comparación con la muestra sin quemar. La figura muestra la evolución de frecuencia de la parte imaginaria de la variación relativa para diferentes profundidades de quemado. Por debajo de 1 GHz , la diferencia entre las quemaduras es inferior al 2%, lo que subraya una capacidad débil para distinguir las profundidades. Mientras que hasta 2 GHz, se distinguen cambios en el orden del 6%. Más allá de 2 GHz, la señal alcanza una meseta para cada profundidad de grabación. Para la quemadura de 5 mm de profundidad, la variación alcanza casi el 18%. Por lo tanto, es posible distinguir, para cada frecuencia o en todo el rango de frecuencia del estudio, la señal asociada con la profundidad de quemado [1].</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Este estudio consiste en desarrollar una técnica no destructiva para determinar la profundidad de quemado del tejido en medio líquido.\n En todo rango de frecuencia, las señales correspondientes a diferentes profundidades de quemado están separadas. Sin embargo, esto es en las frecuencias más altas donde las señales son las más separadas. A partir de 1.5 GHz, para una quemadura de 5 mm de profundidad, la variación supera el 5% en comparación con la muestra sin quemar. La figura muestra la evolución de frecuencia de la parte imaginaria de la variación relativa para diferentes profundidades de quemado. Por debajo de 1 GHz , la diferencia entre las quemaduras es inferior al 2%, lo que subraya una capacidad débil para distinguir las profundidades. Mientras que hasta 2 GHz, se distinguen cambios en el orden del 6%. Más allá de 2 GHz, la señal alcanza una meseta para cada profundidad de grabación. Para la quemadura de 5 mm de profundidad, la variación alcanza casi el 18%. Por lo tanto, es posible distinguir, para cada frecuencia o en todo el rango de frecuencia del estudio, la señal asociada con la profundidad de quemado [1].</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rBTWXDGUZI",
           "_anchor": "content1-5z",
           "_protectedParams": [],
@@ -10772,84 +10772,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".line": {
-              "background-color": "@lineColor",
-              "color": "@lineColor",
-              "align": "center",
-              "height": "2px",
-              "margin": "0 auto"
-            },
-            ".section-text": {
-              "padding": "2rem 0"
-            },
-            ".inner-container": {
-              "margin": "0 auto"
-            },
-            "@media (max-width: 768px)": {
-              ".inner-container": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ff3366\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text>DETECCIÓN DE TEJIDO LESIONADO POR QUEMADURAS PARA CIRUGÍA DE DESBRIDAMIENTO MEDIANTE LA COMBINACIÓN DE TÉCNICAS DE IMÁGEN ÓPTICA NO INVASIVAS</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
-          "_cid": "rC3qF04nuw",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content10-69"
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#232323"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Interacción luz-tejido:  las propiedades ópticas que definen la interacción entre fotones y tejidos a medida que la luz viaja a través de los tejidos son principios clave para la traducción de estas técnicas al uso clínico. Las propiedades que definen el transporte de luz relevante para la evaluación de quemaduras se miden en longitudes del orden de mm-cm. Estos incluyen el índice de refracción ( n ), que define la velocidad de la luz en el medio, así como el coeficiente de dispersión reducido (μ s / ) y el coeficiente de absorción (μ a), que definen la distancia que la luz tiende a viajar entre los eventos de dispersión o absorción. Las propiedades ópticas del tejido de la piel están definidas por su composición química y estructura anatómica. Todas estas moléculas, excepto el colágeno, son los principales contribuyentes a la absorción de tejidos. Los procesos de enfermedades, incluidas las quemaduras, que alteran la configuración o la concentración de estas moléculas en la piel son, por lo tanto, discernibles por técnicas ópticas.\n</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rC3rpCBP1l",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content1-6b"
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#232323"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>MSI: MSI captura múltiples mediciones independientes del tejido en rápida sucesión y es flexible para diagnosticar no solo la gravedad de la quemadura, sino también para identificar muchos otros tejidos, incluido el lecho viable de la herid. Otras ventajas incluyen lo siguiente: un campo de visión amplio y escalable, tiempo de recopilación de datos rápido, determinación altamente precisa de la fisiología de las quemaduras y adaptabilidad a múltiples diagnósticos en todo el espectro del cuidado de las quemaduras [8].\n</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rC3rqLtbDj",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content1-6c"
         },
         {
           "alias": false,
