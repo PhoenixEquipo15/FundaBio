@@ -4979,6 +4979,31 @@ body {
 .cid-rBpfnbaktY DIV {
   text-align: left;
 }
+.cid-rC3owaoLQ6 {
+  background: #149dcc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #149dcc);
+}
+.cid-rC3owaoLQ6 .image-block {
+  margin: auto;
+}
+.cid-rC3owaoLQ6 figcaption {
+  position: relative;
+}
+.cid-rC3owaoLQ6 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rC3owaoLQ6 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rC3owaoLQ6 DIV {
+  text-align: left;
+}
 .cid-rBpfInsK0H {
   padding-top: 60px;
   padding-bottom: 60px;
