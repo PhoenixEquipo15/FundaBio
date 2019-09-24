@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sitio Original 2.0",
-    "currentPage": "page6.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 175,
+    "uniqCompNum": 176,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -1735,6 +1735,28 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#000000"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Dispositivo que funciona con un sensor que mide la radiación emitida en un área específica del cuerpo y la transforma en temperatura. Esta señal hace un mapeo de la temperatura en el tejido la cual permite una imagen al cirujano para diferenciar la vitalidad del tejido. Sin embargo, esta debe realizarse con una temperatura externa constante, por lo que debe hacerse en una habitación termostática [4].\n</p><p>Para mejorar la precisión de esta técnica, desarrollaremos una caja que rodee la zona de la quemadura en manos y que conserve la temperatura del ambiente constante. De este modo será más precisa la técnica de limitación por termografía.\n</p><p>Nos centramos en esta área ya que, según los datos recopilados, el área mas incidente de quemaduras en niños y jóvenes quemados, son las manos, ganando en estadísticas con un 49% respecto a otras zonas [5]. \n</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rD1rCpg0d8",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-4v"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
             ".line": {
               "background-color": "@lineColor",
               "color": "@lineColor",
@@ -1986,7 +2008,7 @@
             }
           },
           "_name": "content11",
-          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#ede11b\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li>Osorio, A. and Efraín, S. (2009). Determinación del Gradiente de Velocidad en un Flujo Real por Medio de Técnicas Unidimensionales de Anemometría Láser Doppler. Pamplona, Colombia, pp.3-6. Sitio Web: <a href=\"http://www.redalyc.org/pdf/903/90312180004.pdf\" target=\"_blank\" class=\"text-success\">http://www.redalyc.org/pdf/903/90312180004.pdf</a></li><li>User S. Inspección con Ultrasonidos en Aire [Internet]. Daselsistemas.com. 2019. Available from: <a href=\"http://www.daselsistemas.com/es/conocimientos/ultrasonido-sin-contacto/388-non-contact-ultrasound-inspection\" target=\"_blank\" class=\"text-success\">http://www.daselsistemas.com/es/conocimientos/ultrasonido-sin-contacto/388-non-contact-ultrasound-inspection</a></li><li>David, L. (2014). Medición del flujo de velocidad mediante ultrasonidos en pequeñas secciones circulares. 1st ed. [ebook] Sevilla: Dep. Teoría de la Señal y Comunicaciones Escuela Técnica Superior de Ingeniería Universidad de Sevilla, p.27. Disponible en: <a href=\"http://bibing.us.es/proyectos/abreproy/12228/fichero/Medici%C3%B3n+del+flujo+de+velocidad+mediante+ultrasonidos+en+peque%C3%B1as+secciones+circulares.pdf\" target=\"_blank\" class=\"text-success\">http://bibing.us.es/proyectos/abreproy/12228/fichero/Medici%C3%B3n+del+flujo+de+velocidad+mediante+ultrasonidos+en+peque%C3%B1as+secciones+circulares.pdf</a>&nbsp;</li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#ede11b\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li>Osorio, A. and Efraín, S. (2009). Determinación del Gradiente de Velocidad en un Flujo Real por Medio de Técnicas Unidimensionales de Anemometría Láser Doppler. Pamplona, Colombia, pp.3-6. Sitio Web: <a href=\"http://www.redalyc.org/pdf/903/90312180004.pdf\" target=\"_blank\" class=\"text-success\">http://www.redalyc.org/pdf/903/90312180004.pdf</a></li><li>User S. Inspección con Ultrasonidos en Aire [Internet]. Daselsistemas.com. 2019. Available from: <a href=\"http://www.daselsistemas.com/es/conocimientos/ultrasonido-sin-contacto/388-non-contact-ultrasound-inspection\" target=\"_blank\" class=\"text-success\">http://www.daselsistemas.com/es/conocimientos/ultrasonido-sin-contacto/388-non-contact-ultrasound-inspection</a></li><li>David, L. (2014). Medición del flujo de velocidad mediante ultrasonidos en pequeñas secciones circulares. 1st ed. [ebook] Sevilla: Dep. Teoría de la Señal y Comunicaciones Escuela Técnica Superior de Ingeniería Universidad de Sevilla, p.27. Disponible en: <a href=\"http://bibing.us.es/proyectos/abreproy/12228/fichero/Medici%C3%B3n+del+flujo+de+velocidad+mediante+ultrasonidos+en+peque%C3%B1as+secciones+circulares.pdf\" target=\"_blank\" class=\"text-success\">http://bibing.us.es/proyectos/abreproy/12228/fichero/Medici%C3%B3n+del+flujo+de+velocidad+mediante+ultrasonidos+en+peque%C3%B1as+secciones+circulares.pdf</a>&nbsp;</li><li>Carranza R. (2018) Uso de la Termografía como método de distinción de profundidades de quemaduras de tipo AB-A y AB-B. 2018. Página web: <a href=\"https://rdu.unc.edu.ar/bitstream/handle/11086/11347/Proyecto%20Integrador%20Carranza_%20Rotharmel.pdf?sequence=1&isAllowed=y\" target=\"_blank\" class=\"text-success\">https://rdu.unc.edu.ar/bitstream/handle/11086/11347/Proyecto%20Integrador%20Carranza_%20Rotharmel.pdf?sequence=1&amp;isAllowed=y</a></li><li>Solís F Fresia, Domic C Carmina, Saavedra O Rolando. Epidemiología de las quemaduras en niños y adolescentes de Región Metropolitana de Chile. Rev. chil. pediatr.  [Internet]. 2014 Dic [citado  2019  Sep  21] ;  85( 6 ): 690-700. Disponible en: <a href=\"https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0370-41062014000600006&lng=es. http://dx.doi.org/10.4067/S0370-41062014000600006\" target=\"_blank\" class=\"text-success\">https://scielo.conicyt.cl/scielo.php?script=sci_arttext&amp;pid=S0370-41062014000600006&amp;lng=es.  http://dx.doi.org/10.4067/S0370-41062014000600006</a></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rCUNut6bh3",
           "_anchor": "content11-4t",
           "_protectedParams": [],
