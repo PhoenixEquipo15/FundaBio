@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sitio Original 2.0",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1553,11 +1553,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Dispositivo que utiliza una fuente de luz, en este caso un láser monocromático con una larga longitud de onda, que utiliza el efecto Doppler  para poder determinar la flujometria del tejido, se centra en la velocidad de las partículas de baja densidad que son transportadas por los fluidos, en nuestro caso los glóbulos rojos, es así que se puede diferenciar la vitalidad del tejido, ya que parte de la luz se dispersa dinámicamente incurre en un pequeño cambio de frecuencia, en cambio las estructuras estáticas(tejido necrótico) no sufre ese cambio de frecuencia.\n</p><p>Según un estudio realizado por la Revista de la Facultad de Ciencias (Colombia,2009), se realizó un montaje experimental para abaratar los costos de está técnica, ellos usaron la Anemometría Láser Doppler (LDA), usando un haz de láser de 25mW, un fotodetector PMT (RCA 931 A), la señal entregada es procesada por un interfase(DSO 2100 IBM PC-based oscilloscope), que realiza la Transformada Rápida de Fourier, finalmente encuentran las medidas de velocidad del flujo en función del tiempo y volumen, con la ayuda de un posicionador 3D se registran las velocidades a lo largo de la posición. Llegaron a la conclusión que este trabajo experimental puede ser realizado en fluidos reales y se lograría abaratar los costos.  [1]\n</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rCUM23dDih",
+          "_anchor": "content1-4q",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-4q"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1611,11 +1611,11 @@
           "_name": "content13",
           "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"66\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"109\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#efefef\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-23-at-11.50.16-am-280x206.jpg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Imagen del arreglo <br>experimental.</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-23-at-11.50.16-am-1-272x209.jpg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Distribución de la velocidad a lo largo de la posición.</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_cid": "rCUMgodRLF",
+          "_anchor": "content13-4r",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content13-4r"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1633,11 +1633,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Por lo tanto, nuestro dispositivo estará enfocado en ser de bajo costo y en transformar esos datos a imágenes que muestren el área específica que se debe debridar para facilitar la labor del cirujano y  mejorar la recuperación del paciente quemado.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rCUMkbkjOl",
+          "_anchor": "content1-4s",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-4s"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1933,11 +1933,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\"><br>BIBLIOGRAFIA SEMANA 4</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rCUNvhPvc4",
+          "_anchor": "content4-4u",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-4u"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1988,11 +1988,11 @@
           "_name": "content11",
           "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#ede11b\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li>Osorio, A. and Efraín, S. (2009). Determinación del Gradiente de Velocidad en un Flujo Real por Medio de Técnicas Unidimensionales de Anemometría Láser Doppler. Pamplona, Colombia, pp.3-6. Sitio Web: <a href=\"http://www.redalyc.org/pdf/903/90312180004.pdf\" target=\"_blank\" class=\"text-success\">http://www.redalyc.org/pdf/903/90312180004.pdf</a></li><li>User S. Inspección con Ultrasonidos en Aire [Internet]. Daselsistemas.com. 2019. Available from: <a href=\"http://www.daselsistemas.com/es/conocimientos/ultrasonido-sin-contacto/388-non-contact-ultrasound-inspection\" target=\"_blank\" class=\"text-success\">http://www.daselsistemas.com/es/conocimientos/ultrasonido-sin-contacto/388-non-contact-ultrasound-inspection</a></li><li>David, L. (2014). Medición del flujo de velocidad mediante ultrasonidos en pequeñas secciones circulares. 1st ed. [ebook] Sevilla: Dep. Teoría de la Señal y Comunicaciones Escuela Técnica Superior de Ingeniería Universidad de Sevilla, p.27. Disponible en: <a href=\"http://bibing.us.es/proyectos/abreproy/12228/fichero/Medici%C3%B3n+del+flujo+de+velocidad+mediante+ultrasonidos+en+peque%C3%B1as+secciones+circulares.pdf\" target=\"_blank\" class=\"text-success\">http://bibing.us.es/proyectos/abreproy/12228/fichero/Medici%C3%B3n+del+flujo+de+velocidad+mediante+ultrasonidos+en+peque%C3%B1as+secciones+circulares.pdf</a>&nbsp;</li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rCUNut6bh3",
+          "_anchor": "content11-4t",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content11-4t"
+          "_params": {}
         },
         {
           "alias": false,
