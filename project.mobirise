@@ -11,7 +11,7 @@
         "successColor": "#e91010",
         "infoColor": "#1d14cc",
         "warningColor": "#1ea111",
-        "dangerColor": "#7014cc",
+        "dangerColor": "#c138c2",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
         "display1Size": 4.25,
@@ -42,7 +42,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 270,
+    "uniqCompNum": 271,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -18936,7 +18936,7 @@
             }
           },
           "_name": "custom-html",
-          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-12\">\n                <div class=\"sketchfab-embed-wrapper\">\n    <iframe title=\"A 3D model\" width=\"1060\" height=\"680\" src=\"https://sketchfab.com/models/b879888da5754035a6a4a5c35a189e92/embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; vr\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>\n\n<p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\">\n    <a href=\"https://sketchfab.com/3d-models/ums5-3-1-b879888da5754035a6a4a5c35a189e92?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">UMS5 3 (1)</a>\n    by <a href=\"https://sketchfab.com/aleatorio.tercero.3?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">aleatorio.tercero.3</a>\n    on <a href=\"https://sketchfab.com?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a>\n</p>\n</div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-12\">\n                <div class=\"sketchfab-embed-wrapper\">\n    <iframe title=\"A 3D model\" width=\"1060\" height=\"680\" src=\"https://sketchfab.com/models/b879888da5754035a6a4a5c35a189e92/embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; vr\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>\n\n<p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\">\n    <a href=\"https://sketchfab.com/3d-models/ums5-3-1-b879888da5754035a6a4a5c35a189e92?utm_medium=embed&utm_source=website&utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">UMS5 3 (1)</a>\n    by <a href=\"https://sketchfab.com/aleatorio.tercero.3?utm_medium=embed&utm_source=website&utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">aleatorio.tercero.3</a>\n    on <a href=\"https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a>\n</p>\n</div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "custom-html-7g",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -18945,6 +18945,22 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-danger-outline\" href=\"page21.html\" data-app-placeholder=\"Type Text\">SEMANA 8</a> <a class=\"btn btn-danger-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">PAGINA PRINCIPAL</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rGG70gNtrg",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content8-7i"
         },
         {
           "alias": false,
