@@ -15863,6 +15863,30 @@ body {
     width: 100% !important;
   }
 }
+.cid-rJHTeOEV5Q {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rJHTeOEV5Q .image-block {
+  margin: auto;
+}
+.cid-rJHTeOEV5Q .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rJHTeOEV5Q figcaption {
+  position: relative;
+}
+.cid-rJHTeOEV5Q figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rJHTeOEV5Q .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rG158tJyMO {
   padding-top: 60px;
   padding-bottom: 60px;
